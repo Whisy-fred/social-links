@@ -8,6 +8,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
+    margin: 15px;
 }
 .c1{
     background-color: hsl(0, 0%, 8%);
