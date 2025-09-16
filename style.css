@@ -8,7 +8,8 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    
+    margin: 30px;
+    padding: 15px;
 }
 .c1{
     background-color: hsl(0, 0%, 8%);
@@ -16,8 +17,7 @@ body{
     max-width: 1440px;
     box-sizing: border-box;
     border-radius: 10px;
-    margin: 30px;
-    padding: 15px;
+    
 
 }
 p{
